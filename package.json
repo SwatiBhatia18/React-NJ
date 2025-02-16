@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SwatiBhatia18/React-NJ#readme",
+  "bugs": {
+    "url": "https://github.com/SwatiBhatia18/React-NJ/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwatiBhatia18/React-NJ.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
